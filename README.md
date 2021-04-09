@@ -1,9 +1,9 @@
 ### Hi, I'm Friedrich 👋
 Apparently this helps some people pronounce my name: /ˈfʁiːdʁɪç/. Don't bother though, call me Fred if you like. 
 
-- 🔭  I’m currently working on Berlin Bytes and CloudSketch
-- 🌱  I’m currently learning about Golang and gRPC
-- 💬  Ask me about Cloud Architecture and Azure
+- 🔭  I’m currently working on Berlin Bytes
+- 🌱  I’m learning about Golang and ITSec
+- 💬  Ask me about Cloud Architecture, Azure, Linux and Web Development
 - 📫  How to reach me: friedrich.staufenbiel@berlin-byt.es
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/friedrich-staufenbiel-99264bb3/)
