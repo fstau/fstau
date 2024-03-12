@@ -1,5 +1,5 @@
 ## Hi, I'm Friedrich 👋
-Call me Fred if you like - I know it's a mouthful. 
+Call me Fred if you like. 
 
 - I’m working on Tech @ [Berlin Bytes](https://berlin-bytes.de/)
 - Ask me about software architecture, web development and cloud solutions
